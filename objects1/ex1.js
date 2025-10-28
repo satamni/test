@@ -19,3 +19,6 @@ const cachorro = {
 cachorro.aumentarIdade();
 console.log(cachorro.idade);
 console.log(cachorro.validarIdoso());
+
+
+console.log(cachorro.nome);
